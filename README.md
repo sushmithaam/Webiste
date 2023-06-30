@@ -1,3 +1,2 @@
-This is read me file
-
-md - Markdown file
+#Example repository
+This is a sample repo
